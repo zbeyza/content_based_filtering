@@ -24,3 +24,6 @@ The main Movies Metadata file. Contains information on 45,000 movies featured in
 
 ##### https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
+### You can find the detailed explanation of Content-Based Filtering  and the project from the link link:
+##### https://medium.com/@zbeyza/recommendation-systems-content-based-filtering-e19e3b0a309e
+
