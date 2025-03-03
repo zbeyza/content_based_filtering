@@ -1,7 +1,5 @@
 # Content-Based Filtering
 
-![pitch-jerry-lee-bosmans](https://user-images.githubusercontent.com/81737980/206035576-54999789-d45d-44de-96c0-21d6b81980ab.jpg)
-
 Content-Based Filtering is one of the methods used as a Recommendation System. Similarities are calculated over product metadata, and it provides the opportunity to develop recommendations. The products that are most similar to the relevant product are recommended.
 
 Metadata represents the features of a product/service. For example, the director, cast, and screenwriter of a movie; the author, back cover article, translator of a book, or category information of a product.
